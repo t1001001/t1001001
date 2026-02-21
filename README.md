@@ -6,8 +6,11 @@
 ## Programming Languages
 [![Programming Languages](https://skillicons.dev/icons?i=python,go,cs,java,js,ts,html,css,matlab)](https://skillicons.dev)
 
+## Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=fastapi,django,dotnet,spring,nodejs,angular,react,next,sklearn,pytorch,tensorflow)](https://skillicons.dev)
+
 ## Databases
-[![Databases](https://skillicons.dev/icons?i=postgres,mongodb)](https://skillicons.dev)
+[![Databases](https://skillicons.dev/icons?i=postgres,mongodb,sqlite)](https://skillicons.dev)
 
 Qdrant and Firestore too but they don't have logos on SkillIcons yet :(
 
