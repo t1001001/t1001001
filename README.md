@@ -1,6 +1,6 @@
 # About me
 
-Hey there, my name is Tobias - I am from Germany and currently in my Master's in Cybersecurity Management at the University of Agder in Norway 🇳🇴
+Hey there, my name is Tobias - I am from Germany and currently in my Master's in Cybersecurity Management at the University of Agder in Norway!
 
 I like to think unideologically about everything, which (given my understanding of human nature) never happens as bias, irrationality, and simple idiocy are typically stronger than me.
 
