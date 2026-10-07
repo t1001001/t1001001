@@ -12,7 +12,7 @@ Besides that, I am a simple developer with strong interests in software developm
 |--------|------|-------|-------|
 | TRUMPF SE & Co. KG | 03/26 - 08/26 | Software Engineer Intern | Agentic AI for machine tools |
 | LEONHARD WEISS GmbH & Co. KG | 07/25 - 02/26 | Software Engineer Intern | RAG & ETL pipelines |
-| LEONHARD WEISS GmbH & Co. KG | 07/24 - 12/24 | IT Intern | CRM administration, customizing and test management |
+| LEONHARD WEISS GmbH & Co. KG | 07/24 - 12/24 | IT Intern | CRM administration, customizing & test management |
 
 # Tech Stack
 
